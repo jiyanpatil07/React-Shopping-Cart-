@@ -1,12 +1,9 @@
+# Main Page
 
-# Main Page 
+<p align="center">
+  <img src="D:\React-Projects\pizza-app\Main.jpg" width="350" title="hover text">
 
-
-
-
-
-
-
+</p>
 
 # Getting Started with Create React App
 
