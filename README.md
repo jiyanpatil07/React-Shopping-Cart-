@@ -2,6 +2,15 @@
 
 ![Main](https://user-images.githubusercontent.com/76421551/150516027-2ad6e75f-1ecc-4cbf-b695-cb58eb12fcb0.jpg)
 
+# Product Page
+![Products](https://user-images.githubusercontent.com/76421551/150516366-57d82ac4-f9d4-457d-a610-25ac2f8c87ba.jpg)
+ 
+ # Cart Page
+ 
+![Cart](https://user-images.githubusercontent.com/76421551/150517798-333f46d2-ebb4-4de0-8f56-7ab23dc5be06.jpg)
+
+
+
 
 # Getting Started with Create React App
 
